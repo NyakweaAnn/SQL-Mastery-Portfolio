@@ -10,7 +10,7 @@ This repository contains high-integrity SQL scripts and database architectures d
 * **Version Control:** Git & GitHub
 
 # Humanitarian Aid Tracker & Relational Database Simulation
-![Humanitarian Data Pipeline](humanitarian_data_pipeline.png)
+![Humanitarian Data Pipeline](humanitarian_data_pipeline.png.png)
 ## 📌 Project Overview
 This project simulates a real-world humanitarian data management system. In many field operations, data architecture must be established before field data arrives. This repository demonstrates the ability to design, deploy, and query a relational database tailored for Monitoring, Evaluation, and Learning (MEL) workflows.
 
